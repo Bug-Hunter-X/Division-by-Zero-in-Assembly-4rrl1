@@ -1,0 +1,2 @@
+# Assembly Division by Zero Bug
+This repository demonstrates a common error in assembly programming: division by zero. The `bug.asm` file contains code that attempts to divide a number by zero, resulting in an exception.  The solution, `bugSolution.asm`, shows how to avoid this by checking for a zero divisor before performing the division.
